@@ -34,7 +34,7 @@
 
 ### Experience
 
-💻 Play data - Big data engineer training (2021-11-19 ~  )
+💻 Play data - Big data engineer (2021-11-19 ~ )
 
 
 
