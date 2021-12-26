@@ -9,7 +9,7 @@
   👋&nbsp; Hi there! &nbsp; I'm <b>junior developer</b> using Java.<br/>
   I'm interested in <b>data engineering</b> and <b>data analysis</b>. <br/><br/>
   I enjoy<b> crossfit</b>🏋️‍♂️ &nbsp; <b>tennis</b>🎾 &nbsp; <b>kick-boxing</b>🥊 <br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  I hope to develop every useful things. 💻 <br/><br/>
 </p>
 
 ---
