@@ -6,9 +6,9 @@
 ### Who Am I
 
 <p>
-  👋&nbsp; Hi there! &nbsp; I'm <b>junior developer</b> using Java.<br/>
+  👋&nbsp; Hi there! &nbsp; I'm <b>junior developer</b> using Java, Python.<br/>
   I'm interested in <b>data engineering</b> and <b>data analysis</b>. <br/><br/>
-  I enjoy<b> crossfit</b>🏋️‍♂️ &nbsp; <b>tennis</b>🎾 &nbsp; <b>kick-boxing</b>🥊 <br/>
+  I enjoy <b>tennis</b>🎾 &nbsp; <b>kick-boxing</b>🥊 <br/>
   I hope to develop every useful things. 💻 <br/><br/>
 </p>
 
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
 </p>
 
 <p>
@@ -40,6 +41,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</p>
 
 ### Experience
 
