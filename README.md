@@ -47,8 +47,8 @@
 <h3 align="center"> Tools ⚙️</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
 
@@ -59,14 +59,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=euneun316&show_icons=true&theme=material-palenight">
 </p>
 
----
-
-<h3 align="center"> My velog 💜 </h3>
-<div align="center" style="text-align:center">
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ImOk&tag=docker&color=dark)](https://velog.io/@imok-_/M1-Docker)
-
-</div>
 
 ---
 
