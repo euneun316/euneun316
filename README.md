@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="center"> Front-end Stack ✨</h3>
+<h3 align="center"> ✨ Front-end Stack </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp
@@ -21,17 +21,20 @@
 <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/>
 </p>
 
-<h3 align="center">Data engineer Stack 🛠</h3>
+<h3 align="center"> 🛠 Data engineer Stack </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache-Hive&logoColor=black"/></a>&nbsp
-<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 </p>
 
-<h3 align="center"> Back-end Stack 💻</h3>
+<h3 align="center"> 💻 Back-end Stack </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -39,30 +42,40 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
 </p>
 
-<h3 align="center">Data analyst Stack 📊</h3>
+<h3 align="center"> 📊 Data analyst Stack </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=Numpy&logoColor=white"/>
 </p>
 
-<h3 align="center"> Tools ⚙️</h3>
+<h3 align="center"> ⚙️ Tools </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>
+</p>
+
+<h3 align="center"> 😆 Collaboration Tools </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Slack-4A154B?style=&logo=Slack&logoColor=white"/>
 </p>
 
 
 ---
 
-<h3 align="center">My Git Stats 💡</h3>
+<h3 align="center"> 💡 My Git Stats </h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=euneun316&show_icons=true&theme=material-palenight">
 </p>
 
 
+
 ---
 
-<h3 align="center"> Experience  </h3>
+<h3 align="center"> 💟 Experience  </h3>
 <p align="center">
 💻 Play data - Big data engineer (2021-11-09 ~ )
 </p>
