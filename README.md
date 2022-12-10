@@ -2,44 +2,38 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feuneun316&count_bg=%23BC95E7&title_bg=%23A140E9&icon=&icon_color=%23FBFBFB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp; <a href="https://velog.io/@imok-_" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=imok-_)](https://velog.io/@imok-_)
+
+</br>
+
 <h1 align="center"> ImOk 👩‍💻 </h1>
 <h3 align="center">Who Am I</h3>
 <p align="center">
-  👋&nbsp; Hi there !&nbsp;I'm <b>junior developer</b> using Java, Python.<br/>
-  I'm interested in <b>data engineering</b> and <b>data analysis</b>. <br/><br/>
-  I enjoy <b>tennis</b>🎾 <b>kick-boxing</b>🥊 <br/>
-  I hope to develop every useful things. 💻 <br/><br/>
+  👋&nbsp; Hi there !&nbsp;I'm <b>junior AWS SA</b> Data Engineering Specialty.<br/>
+  I'm interested in <b>Data engineering</b> and <b>Data analysis</b>. <br/><br/>
+
 </p>
 
----
-
-<h3 align="center"> ✨ Front-end Stack </h3>
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp
-<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/>
-</p>
+</br>
 
 <h3 align="center"> 🛠 Data engineer Stack </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache-Hive&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 </p>
 
-<h3 align="center"> 💻 Back-end Stack </h3>
+<h3 align="center"> 💻 DevOps Stack </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center"> 📊 Data analyst Stack </h3>
@@ -51,9 +45,9 @@
 <h3 align="center"> ⚙️ Tools </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>
+<img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iTerm2&logoColor=white"/>
 </p>
 
 <h3 align="center"> 😆 Collaboration Tools </h3>
@@ -64,18 +58,9 @@
 </p>
 
 
----
+</br>
 
 <h3 align="center"> 💡 My Git Stats </h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=euneun316&show_icons=true&theme=material-palenight">
-</p>
-
-
-
----
-
-<h3 align="center"> 💟 Experience  </h3>
-<p align="center">
-💻 Play data - Big data engineer (2021-11-09 ~ )
 </p>
