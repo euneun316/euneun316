@@ -2,7 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feuneun316&count_bg=%23BC95E7&title_bg=%23A140E9&icon=&icon_color=%23FBFBFB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp; <a href="https://velog.io/@imok-_" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <a href="https://medium.com/@eun_ok" target="_blank"><img src="https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=imok-_)](https://velog.io/@imok-_)
 
 </br>
 
