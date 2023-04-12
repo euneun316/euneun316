@@ -2,7 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feuneun316&count_bg=%23BC95E7&title_bg=%23A140E9&icon=&icon_color=%23FBFBFB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp; <a href="https://velog.io/@imok-_" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <a href="https://medium.com/@eun_ok" target="_blank"><img src="https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
 
-
 </br>
 
 <h1 align="center"> ImOk 👩‍💻 </h1>
@@ -22,7 +21,8 @@
 <br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
 </p>
 
 <h3 align="center"> 💻 DevOps Stack </h3>
@@ -55,7 +55,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=&logo=Slack&logoColor=white"/>
 </p>
-
 
 </br>
 
