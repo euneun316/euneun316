@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
